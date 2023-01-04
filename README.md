@@ -23,10 +23,10 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: nathafaculdade@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="icons8-gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/nath%C3%A3-rosario/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="LinkedIn_icon.svg">
     </a>
 </div>
 
