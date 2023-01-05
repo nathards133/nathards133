@@ -25,7 +25,7 @@
       <img width="30" src="icons8-gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/nath%C3%A3-rosario/">
-      <img width="25" src="icons8-linkedin-circundado.svg">
+      <img width="30" src="icons8-linkedin-circundado.svg">
     </a>
     </div>
 </div>
