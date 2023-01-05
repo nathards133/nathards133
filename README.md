@@ -1,8 +1,8 @@
 ## Bem vindo, me chamo Nathã!
 
 <div style="display: inline-block">
-  <img  height="185em" src="https://github-readme-stats.vercel.app/api?username=nathards133&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="margin-right: 10px"/>
-  <img align="right" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathards133&layout=compact&langs_count=16&theme=dark" style="margin-left: 10px"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=nathards133&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="margin-right: 10px"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathards133&layout=compact&langs_count=16&theme=dark" style="margin-left: 10px"/>
 </div>
 <br>
 
